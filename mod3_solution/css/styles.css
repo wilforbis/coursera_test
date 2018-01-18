@@ -1,0 +1,26 @@
+.navbar-brand {
+  float: left;
+  height: 60px;
+  padding: 0px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  /* border: 0px solid; */
+}
+h1 {
+	margin: 10px 15px;
+}
+
+.navbar-toggle {
+  /* I changed the next value from 8pc */
+  margin-top: 10px;
+
+}
+.main_content {
+background-color: #F9F0A0;
+padding: 15px;
+}
+
+a {
+	color: #C70039;
+}
+
